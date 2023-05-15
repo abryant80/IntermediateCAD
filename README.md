@@ -41,7 +41,7 @@ Complete self pace assemby
 
 ### Image
 
-![sa](./Images/competion of assembles.png)
+![sa](./Images/competionofassembles.png)
 
 ### Reflection
 
