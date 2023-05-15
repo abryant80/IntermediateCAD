@@ -45,6 +45,6 @@ Complete self pace assemby
 
 ### Reflection
 
-I set up my vs code.I learned about the rgb scale.I learned about the delay of time.
+I learned more about assembles and got a better understanding up them.It was easy because the cource walked me through it.But now, I improved a useful skill that I will use later.
 ---
 
