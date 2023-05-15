@@ -37,7 +37,7 @@ Complete self pace assemby
 
 ### Evidence
 
-[SelfPace cource](https://learn.onshape.com/learn/course/fundamentals-onshape-assemblies/mating-assembly-components/exercise-creating-mate-connectors)
+[SelfPace cource](https://learn.onshape.com/learn/course/fundamentals-onshape-assemblies/completion-certificate/completion-survey?page=3)
 
 ### Image
 
