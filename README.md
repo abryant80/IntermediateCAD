@@ -33,7 +33,7 @@ It was pretty simple but complicated.I struggled to get the first curve on the c
 
 ### Description
 
-Complete self pace assemby 
+Complete self pace assembly 
 
 ### Evidence
 
